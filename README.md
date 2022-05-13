@@ -3,6 +3,7 @@
 This program will automatically farm you esport capsules and drops from lolesports.com
 
 It will run as tray application:
+
 ![image](https://user-images.githubusercontent.com/74879467/168254886-1825b9c9-baeb-43b3-b1d6-c1f828b4570a.png)
 ![image](https://user-images.githubusercontent.com/74879467/168254923-cd34f4d0-6c71-44c6-b447-07400c687d4a.png)
 ![image](https://user-images.githubusercontent.com/74879467/168254938-ca686835-b840-4053-bdc6-949abf264f4c.png)
